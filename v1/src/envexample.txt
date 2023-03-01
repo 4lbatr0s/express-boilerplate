@@ -1,0 +1,13 @@
+APP_PORT=3000
+DB_HOST=your_host
+DB_PORT=your_port
+DB_NAME=your_db_name
+EMAIL_HOST=smpt.ethereal.email
+EMAIL_PORT=your_email_port
+EMAIL_USER=youremail@gmail.com
+EMAIL_PASSWORD=examplepassword
+EMAIL_FROM=Boilerplate Company
+NODE_ENV=development
+ACCESS_TOKEN_SECRET_KEY=
+REFRESH_TOKEN_SECRET_KEY=
+PASSWORD_HASH=
