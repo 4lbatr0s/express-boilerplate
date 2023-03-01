@@ -5,31 +5,15 @@ Express Boilerplate is a customizable and easy-to-use starter kit for building N
 To get started with Express Boilerplate, simply clone the repository and install the dependencies:
 
 ```
-
-
-bash
-
-`git clone https://github.com/yourusername/express-boilerplate.git
+git clone https://github.com/yourusername/express-boilerplate.git
 cd express-boilerplate
-npm install` 
-
-
-
-
+npm install
 ```
 
 You can then start the development server using:
 
 ```
-
-
-bash
-
-`npm start` 
-
-
-
-
+npm start
 ```
 
 This will start the server and restart it automatically whenever you make changes to the code.
